@@ -8,7 +8,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 
 📊 Currently building data analytics skills: SQL, Python, Tableau
 
-🪙 Genuinely curious about crypto & Web3 — my analytics projects lean this way
+🧐 Genuinely curious about crypto & Web3 — my analytics projects lean this way
 
 🤝 Comfortable working independently (long-time freelancer) and communicating clearly across languages and audiences
 
