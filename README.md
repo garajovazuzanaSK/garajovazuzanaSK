@@ -1,6 +1,6 @@
 Hi, I'm Zuzana 👋
 
-Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and useful.
+Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and meaningful.
 
 🌍 Based in Slovakia
 
