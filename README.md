@@ -22,7 +22,7 @@ Other tools: AI-assisted workflows (Base44, Claude), MS Office, CAT tools (Trado
 
 📌 Featured projects
 
-🪙 Cardano (ADA) — Market Dynamics & Investment Efficiency Analysis (in Slovak)
+🔵 Cardano (ADA) — Market Dynamics & Investment Efficiency Analysis (in Slovak)
 
 End-to-end analysis of ADA price data (2017–2026) using SQL (BigQuery) for cleaning/transformation and Tableau for visualization. Covers price cycles, seasonality, whale activity, and a DCA (Dollar-Cost Averaging) investment simulation. SQL Tableau Crypto
 
