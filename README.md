@@ -19,6 +19,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 Data: SQL (BigQuery), Excel (advanced), Tableau, Python (pandas, basics), R (basics), web scraping (Python) Languages: Slovak (native), English (C1), Czech (C1/C2), (native) German (B1/B2) Other tools: AI-assisted workflows (Base44, Claude), MS Office, CAT tools (Trados, Wordfast)
 
 📌 Featured projects
+
 🪙 Cardano (ADA) — Market Dynamics & Investment Efficiency Analysis (in Slovak)
 
 End-to-end analysis of ADA price data (2017–2026) using SQL (BigQuery) for cleaning/transformation and Tableau for visualization. Covers price cycles, seasonality, whale activity, and a DCA (Dollar-Cost Averaging) investment simulation. SQL Tableau Data Cleaning Crypto
