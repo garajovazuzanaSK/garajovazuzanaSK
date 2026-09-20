@@ -41,4 +41,4 @@ Email: garajova.zuzana@gmail.com
 
 Portfolio: taroteveryday.eu (personal project, built with Base44)
 
-Open to junior data analyst roles — remote, EU timezone or US East Coast (overlap up to ~4 PM ET / 10 PM CET).
+Open to junior data analyst roles — remote, EU timezone or US East Coast (overlap up to ~4 PM ET / 10 PM CET)
