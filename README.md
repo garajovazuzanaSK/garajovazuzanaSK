@@ -17,6 +17,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 🔧 Skills
 
 Data: SQL (BigQuery), Excel (advanced), Tableau, Python (pandas, basics), R (basics), web scraping (Python) Languages: Slovak (native), English (C1), Czech (C1/C2), German (B1/B2) 
+
 Other tools: AI-assisted workflows (Base44, Claude), MS Office, CAT tools (Trados, Wordfast)
 
 📌 Featured projects
