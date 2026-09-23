@@ -27,12 +27,12 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 
 Built a Python pipeline for real-estate listings: extraction from a JSON API, data validation, SQLite analysis, Excel reporting, visualisations, and change detection between runs. Explore the [project showcase](https://github.com/garajovazuzanask/real-estate-listings-scraper-showcase) or try the [Streamlit demo](https://real-estate-listings-scraper-heigrksqnbatw3xsupu6cz.streamlit.app/). Full source code is in a private repository, available on reques
 
-🔵 **Cardano (ADA)** — Market Dynamics & Investment Efficiency Analysis (in Slovak)
+🔵 **Cardano (ADA)** — **Market Dynamics & Investment Efficiency Analysis (in Slovak)**
 
 End-to-end analysis of ADA price data (2017–2026) using SQL (BigQuery) for cleaning/transformation and Tableau for visualization. 
 Covers price cycles, seasonality, whale activity, and a DCA (Dollar-Cost Averaging) investment simulation. SQL Tableau Crypto
 
-📱 **Bellabeat** — Smart Device User Behavior Analysis
+📱 **Bellabeat** — **Smart Device User Behavior Analysis**
 
 Google Data Analytics capstone project. Full pipeline from raw fitness-tracker data to a Tableau dashboard, including segmentation and marketing recommendations. SQL Tableau Excel
 
