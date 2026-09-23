@@ -23,7 +23,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 
  ### 📌 Featured projects
 
- 🏠 Real Estate Listings Scraper & Data Pipeline**
+ 🏠 **Real Estate Listings Scraper & Data Pipeline**
 
 Built a Python pipeline for real-estate listings: extraction from a JSON API, data validation, SQLite analysis, Excel reporting, visualisations, and change detection between runs. Explore the [project showcase](https://github.com/garajovazuzanask/real-estate-listings-scraper-showcase) or try the [Streamlit demo](https://real-estate-listings-scraper-heigrksqnbatw3xsupu6cz.streamlit.app/). Full source code is in a private repository, available on reques
 
