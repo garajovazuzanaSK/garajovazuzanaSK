@@ -1,4 +1,4 @@
-**HI, I'M ZUZANA** 👋
+***HI, I'M ZUZANA*** 👋
 
 Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and meaningful.
 
