@@ -39,7 +39,7 @@ Google Data Analytics capstone project. Full pipeline from raw fitness-tracker d
 
 Google Data Analytics Professional Certificate (Coursera, 2025)
 
-📫 **Get in touch**
+📫 ***GET IN TOUCH***
 
 Email: garajova.zuzana@gmail.com
 
