@@ -1,8 +1,8 @@
-***HI, I'M ZUZANA*** 👋
+## Hi, I'm Zuzana 👋
 
 Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and meaningful.
 
-🌍 ***BASED IN SLOVAKIA***
+🌍 ## Based in Slovakia
 
 🈺 15+ years translating specialised texts (economics, finance, marketing, law, IT)
 
@@ -13,8 +13,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 🤝 Comfortable working independently (long-time freelancer) and communicating clearly across languages and audiences
 
 
-
-🔧 ***SKILLS***
+🔧 ## Skills
 
 **Data**: SQL (BigQuery), Excel (advanced), Tableau, Python (pandas, basics), R (basics), web scraping (Python) 
 
@@ -22,7 +21,11 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 
 **Other tools**: AI-assisted workflows (Base44, Claude), MS Office, CAT tools (Trados, Wordfast)
 
-📌 ***FEATURED PROJECTS***
+📌 ## Featured projects
+
+🏠 **Real Estate Listings Scraper & Data Pipeline**
+
+Built a Python pipeline for real-estate listings: extraction from a JSON API, data validation, SQLite analysis, Excel reporting, visualisations, and change detection between runs. Explore the [project showcase](https://github.com/garajovazuzanask/real-estate-listings-scraper-showcase) or try the [Streamlit demo](https://real-estate-listings-scraper-heigrksqnbatw3xsupu6cz.streamlit.app/). Full source code is in a private repository, available on reques
 
 🔵 **Cardano (ADA)** — Market Dynamics & Investment Efficiency Analysis (in Slovak)
 
@@ -35,11 +38,11 @@ Google Data Analytics capstone project. Full pipeline from raw fitness-tracker d
 
 (More crypto deep-dives coming soon — Bitcoin, Ethereum, Solana, Avalanche)
 
-🎓 ***CERTIFICATIONS***
+🎓 ## Certifications
 
 Google Data Analytics Professional Certificate (Coursera, 2025)
 
-📫 ***GET IN TOUCH***
+📫 ## Get in touch
 
 Email: garajova.zuzana@gmail.com
 
