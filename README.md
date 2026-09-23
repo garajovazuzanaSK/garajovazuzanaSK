@@ -2,7 +2,7 @@
 
 Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and meaningful.
 
-🌍 ## Based in Slovakia
+ ## 🌍 Based in Slovakia
 
 🈺 15+ years translating specialised texts (economics, finance, marketing, law, IT)
 
