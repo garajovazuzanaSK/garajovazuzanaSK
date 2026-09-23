@@ -2,7 +2,7 @@
 
 Economist (Ing.) turned data analyst in training, with a long career as a professional EN↔SK translator. I like turning raw information — whether it's a dense legal text or a messy CSV — into something clear and meaningful.
 
-🌍 **Based in Slovakia**
+🌍 **BASED IN SLOVAKIA**
 
 🈺 15+ years translating specialised texts (economics, finance, marketing, law, IT)
 
@@ -14,7 +14,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 
 
 
-🔧 **Skills**
+🔧 **SKILLS**
 
 Data: SQL (BigQuery), Excel (advanced), Tableau, Python (pandas, basics), R (basics), web scraping (Python) 
 
@@ -22,7 +22,7 @@ Languages: Slovak (native), English (C1), Czech (C1/C2), German (B1/B2)
 
 Other tools: AI-assisted workflows (Base44, Claude), MS Office, CAT tools (Trados, Wordfast)
 
-📌 **Featured projects**
+📌 **FEATURED PROJECTS**
 
 🔵 **Cardano (ADA)** — Market Dynamics & Investment Efficiency Analysis (in Slovak)
 
@@ -35,7 +35,7 @@ Google Data Analytics capstone project. Full pipeline from raw fitness-tracker d
 
 (More crypto deep-dives coming soon — Bitcoin, Ethereum, Solana, Avalanche)
 
-🎓 **Certifications**
+🎓 **CERTIFICATIONS**
 Google Data Analytics Professional Certificate (Coursera, 2025)
 
 📫 **Get in touch**
