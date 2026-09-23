@@ -13,7 +13,7 @@ Economist (Ing.) turned data analyst in training, with a long career as a profes
 🤝 Comfortable working independently (long-time freelancer) and communicating clearly across languages and audiences
 
 
-🔧 ## Skills
+ ### 🔧 Skills
 
 **Data**: SQL (BigQuery), Excel (advanced), Tableau, Python (pandas, basics), R (basics), web scraping (Python) 
 
